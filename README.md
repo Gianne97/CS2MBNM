@@ -2,7 +2,9 @@ This code has been used to generate the results presented in the paper entitled:
 "A Numerical Method for Vector Spherical-Multipole Field Translations Based on the Dyadic Green's Function"
 authored by
 Giacomo Giannetti https://orcid.org/0000-0002-4318-8176
-Ludger Klinkenbusch
+and Ludger Klinkenbusch.
+
+The code is written in MATLAB. Text files contain the electric and magnetic fields exported from the full-wave simulator CST.
 
 The package available at https://github.com/mingli-ai/FaVeST has been used for part of the code.
 The corresponding paper is:
