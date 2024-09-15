@@ -1,5 +1,5 @@
-This code has been used to generate the results presented in the paper entitled:
-"A Numerical Method for Vector Spherical-Multipole Field Translations Based on the Dyadic Green's Function"
+This code has been used to generate the results presented in the paper entitled (DOI: 10.5194/ars-22-9-2024):
+"A numerical alternative for 3D addition theorems based on the bilinear form of the dyadic Green's function and the equivalence principle"
 authored by
 Giacomo Giannetti https://orcid.org/0000-0002-4318-8176
 and Ludger Klinkenbusch.
